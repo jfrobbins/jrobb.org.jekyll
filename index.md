@@ -17,5 +17,5 @@ I've started using Jekyll for the blog, which so far it is pretty awesome.  Stat
 
 Of Note:
 
-*[My favorite Linux distros](/linux.html)
+* [My favorite Linux distros](/linux.html)
 
