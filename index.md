@@ -15,7 +15,11 @@ I've started using Jekyll for the blog, which so far it is pretty awesome.  Stat
 
 2012.06.19
 
-Of Note:
+----------
+## Recent Blog Posts:
 
-* [My favorite Linux distros](/linux.html)
 
+{% for post in site.posts limit:7 %}
+* <b><a href="{{ post.url }}">{{ post.title }}</a></b></font> // {{ post.date | date: "%B %e, %Y" }}
+
+{% endfor %}
