@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-rsync -avz --delete _site/ jamba_jrob@nfsn:/home/public
+rsync -avz --delete _site/ nfsn:/home/public

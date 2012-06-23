@@ -1,7 +1,7 @@
 ---
 layout: post
 title: goodbye, factorQ.net
-tags: jekyll
+tags: factorq
 ---
 
 

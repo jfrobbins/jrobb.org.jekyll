@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May update and some tech thoughts
-tags: jekyll
+tags: family gong
 ---
 
 
